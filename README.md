@@ -110,11 +110,13 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages.posts taken from 20 newsgroup topics.
 - [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
 - [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
-
+- [AI2 Open Research Corpus](https://api.semanticscholar.org/corpus/) - Semantic Scholar's records for research papers published in all fields.
+  
 #### External Curation Links
 - [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
 - [Stanford List](http://nlp.stanford.edu/IR-book/html/htmledition/standard-test-collections-1.html)
 - [University of Tennesse Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
+- [Brown University](https://jeffhuang.com/search_query_logs.html) - This is a list of search query logs datasets curated by Jeff Huang.
 
 ## Talks
 #### Technical Talks
